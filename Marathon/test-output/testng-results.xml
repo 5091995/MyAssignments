@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="193778" started-at="2023-02-01T15:20:49 IST" finished-at="2023-02-01T15:24:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="193778" started-at="2023-02-01T15:20:49 IST" finished-at="2023-02-01T15:24:03 IST">
+      <class name="callerModule.CreateNewCaller">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="startReport" is-config="true" duration-ms="623" started-at="2023-02-01T15:20:48 IST" finished-at="2023-02-01T15:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="data()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="data" is-config="true" duration-ms="1" started-at="2023-02-01T15:20:49 IST" finished-at="2023-02-01T15:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="testcaseDetails()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="testcaseDetails" is-config="true" duration-ms="9" started-at="2023-02-01T15:20:49 IST" finished-at="2023-02-01T15:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseDetails -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="preConditions" is-config="true" duration-ms="21241" started-at="2023-02-01T15:20:50 IST" finished-at="2023-02-01T15:21:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="runCreateNewCaller(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:callerModule.CreateNewCaller@73d4cc9e]" name="runCreateNewCaller" duration-ms="79904" started-at="2023-02-01T15:21:12 IST" data-provider="fetchdata" finished-at="2023-02-01T15:22:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Divya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[divya123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Chief Executive Officer]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateNewCaller -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="postCondition" is-config="true" duration-ms="637" started-at="2023-02-01T15:22:32 IST" finished-at="2023-02-01T15:22:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="preConditions" is-config="true" duration-ms="10488" started-at="2023-02-01T15:22:32 IST" finished-at="2023-02-01T15:22:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="runCreateNewCaller(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:callerModule.CreateNewCaller@73d4cc9e]" name="runCreateNewCaller" duration-ms="79779" started-at="2023-02-01T15:22:43 IST" data-provider="fetchdata" finished-at="2023-02-01T15:24:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Venba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[venba123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[VicePresident]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[67891]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[67891]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateNewCaller -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="postCondition" is-config="true" duration-ms="268" started-at="2023-02-01T15:24:02 IST" finished-at="2023-02-01T15:24:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:callerModule.CreateNewCaller@73d4cc9e]" name="endReport" is-config="true" duration-ms="587" started-at="2023-02-01T15:24:03 IST" finished-at="2023-02-01T15:24:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- callerModule.CreateNewCaller -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
